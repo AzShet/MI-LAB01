@@ -1,2 +1,2 @@
 # MI-LAB01-Ruelas
-1
+This repository is for my course of data mining, oh my fisrt week :)
